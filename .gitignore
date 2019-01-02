@@ -88,3 +88,5 @@ venv/
 ENV/
 
 
+#api key
+config.py
